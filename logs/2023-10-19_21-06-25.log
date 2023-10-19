@@ -1,0 +1,32 @@
+2023-10-19 21:06:26,681 - INFO - Task: ACL_2023_finding
+2023-10-19 21:06:27,573 - INFO - Get 901 papers.
+2023-10-19 21:06:27,858 - INFO - Processing titles...
+2023-10-19 21:06:29,664 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:29,976 - INFO - Task: ACL_2023_main
+2023-10-19 21:06:30,819 - INFO - Get 1072 papers.
+2023-10-19 21:06:30,820 - INFO - Processing titles...
+2023-10-19 21:06:31,560 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:31,857 - INFO - Task: ACL_2022
+2023-10-19 21:06:31,857 - ERROR - No conference matched. Please check your input.
+2023-10-19 21:06:31,857 - INFO - Task: ACL_2021
+2023-10-19 21:06:36,977 - INFO - Get 1176 papers.
+2023-10-19 21:06:36,978 - INFO - Processing titles...
+2023-10-19 21:06:37,774 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:38,081 - INFO - Task: ACL_2020
+2023-10-19 21:06:38,796 - INFO - Get 867 papers.
+2023-10-19 21:06:38,798 - INFO - Processing titles...
+2023-10-19 21:06:39,588 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:39,882 - INFO - Task: EMNLP_2023
+2023-10-19 21:06:39,882 - ERROR - No conference matched. Please check your input.
+2023-10-19 21:06:39,882 - INFO - Task: EMNLP_2022
+2023-10-19 21:06:41,957 - INFO - Get 828 papers.
+2023-10-19 21:06:41,957 - INFO - Processing titles...
+2023-10-19 21:06:42,682 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:42,985 - INFO - Task: EMNLP_2021
+2023-10-19 21:06:44,934 - INFO - Get 1312 papers.
+2023-10-19 21:06:44,936 - INFO - Processing titles...
+2023-10-19 21:06:45,709 - INFO - Successfully generate the word cloud.
+2023-10-19 21:06:46,007 - INFO - Task: EMNLP_2020
+2023-10-19 21:06:49,829 - INFO - Get 746 papers.
+2023-10-19 21:06:49,830 - INFO - Processing titles...
+2023-10-19 21:06:50,598 - INFO - Successfully generate the word cloud.

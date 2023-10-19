@@ -1,0 +1,12 @@
+ACL_2023_main: https://2023.aclweb.org/program/accepted_main_conference/
+ACL_2023_finding: https://2023.aclweb.org/program/accepted_findings/
+# ACL_2022: https://www.2022.aclweb.org/papers
+ACL_2021: https://2021.aclweb.org/program/accept/
+ACL_2020: https://acl2020.org/program/accepted/
+ACL_2019: https://dblp.uni-trier.de/search/publ/api?q=toc%3Adb/conf/acl/acl2019-1.bht%3A&h=1000&format=json
+
+# https://aclanthology.org/events/emnlp-2022/
+EMNLP_2022: https://aclanthology.org/volumes/2022.emnlp-main/
+EMNLP_2021: https://2021.emnlp.org/papers/
+EMNLP_2020: https://2020.emnlp.org/papers/main
+EMNLP_2019: https://2019.emnlp.org/program/accepted/
